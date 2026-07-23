@@ -1,0 +1,8 @@
+streamlit
+hashlib
+json
+base64
+io
+qrcode
+PIL
+os
