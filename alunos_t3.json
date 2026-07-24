@@ -38,6 +38,6 @@
     "CERT-T5-027": {"nome": "Adriano Alves Dodó", "email": "bielaguiar4@gmail.com", "cpf": "***.***.***-27", "nota": 9.7, "status": "Aprovado", "data_conclusao": "30/05/2026"},
     "CERT-T5-028": {"nome": "Pedro Yvo Martins Cavalcante de Oliveira", "email": "br.gabrielyra@gmail.com", "cpf": "***.***.***-28", "nota": 9.6, "status": "Aprovado", "data_conclusao": "30/05/2026"},
     "CERT-T5-029": {"nome": "Arthur Vinicius Soares de Lucena ", "email": "jeffsonluiz11@gmail.com", "cpf": "***.***.***-29", "nota": 9.4, "status": "Aprovado", "data_conclusao": "30/05/2026"},
-    "CERT-T5-030": {"nome": "Luhai Akan da Silva Santos", "email": "julioceasarcs@gmail.com", "cpf": "***.***.***-30", "nota": 9.3, "status": "Aprovado", "data_conclusao": "30/05/2026"},
-
+    "CERT-T5-030": {"nome": "Luhai Akan da Silva Santos", "email": "julioceasarcs@gmail.com", "cpf": "***.***.***-30", "nota": 9.3, "status": "Aprovado", "data_conclusao": "30/05/2026"}
+    }
 }
